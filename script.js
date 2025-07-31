@@ -27,6 +27,6 @@ function contar() {
             for (c = i; c>=f; c-=p)
             result.inerHTML += `${c}  ✌🏻 `
         }
-    result.innerHTML += `Fim`
+    result.innerHTML += `🏁`
     }
 }
