@@ -14,7 +14,7 @@ function contar() {
         let p = Nunber(stepNumber.value)
 
         if (p <= 0) {}
-            window.alert("Passo inválido. Considerando passo 1")
+            window.alert("Passo inválido. Passo não pode ser igual ou menor a 0.")
             p = 1
         }
         if (i < f) {
